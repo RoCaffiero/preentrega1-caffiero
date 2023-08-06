@@ -24,7 +24,6 @@ export const MyNavbar = () => {
                             <li className="nav-item">
                                 <Link className="nav-link active" to="/ItemListContainer">Productos
                                 <FontAwesomeIcon icon={faList}  size="xl"/> </Link>
-
                             </li>
                         </ul>
                     </div>
